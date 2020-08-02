@@ -108,8 +108,8 @@
           "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "O Resgate do Soldado Ryan",
+          "url": "https://www.youtube.com/watch?v=Za_Ni4KgQs8"
         },
         {
           "titulo": "A Chegada",
@@ -118,6 +118,14 @@
         {
           "titulo": "Feitiço do Tempo",
           "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        },
+        {
+          "titulo": "O exterminador do futuro Destino Sombrio",
+          "url": "https://www.youtube.com/watch?v=ZT3D7y2fHfo"
+        },
+        {
+          "titulo": "O exterminador do futuro 2",
+          "url": "https://www.youtube.com/watch?v=lzwAcuQELps"
         }
       ]
     },
@@ -178,6 +186,28 @@
         {
           "titulo": "Como aprender a programar?",
           "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    },
+    {
+      "titulo": "Insanos",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Lipo Pegador",
+        "url": "https://www.youtube.com/watch?v=ni828LqMK7Y"
+      },
+      "videos":[
+        {
+          "titulo": "Lipo Pegador",
+          "url": "https://www.youtube.com/watch?v=ni828LqMK7Y"
+        },
+        {
+          "titulo": "Tonin",
+          "url": "https://www.youtube.com/watch?v=sYKdgUkN8Oo&t=44s"
+        },
+        {
+          "titulo": "Lipo Pegador",
+          "url": "https://www.youtube.com/watch?v=ni828LqMK7Y"
         }
       ]
     }
